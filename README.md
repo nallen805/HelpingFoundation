@@ -1,2 +1,2 @@
 # HelpingFoundation
-Sample landing page
+A Simple landing page
